@@ -26,6 +26,7 @@ Select at least two design tools such as Figma, Adobe XD, or Sketch. Create simp
 Collect screenshots of your designs and tools used. Write what you learned about UI and UX, how the tools helped, and the best practices followed. Add suggestions for improvement based on your observations.
 
 ## Output:
+
 ## a. Explore the fundamentals of UI and UX
 UI means User Interface. It refers to everything that a user can see and interact with in an application or website, such as buttons, colors, text, images, icons, menus, and layout. UI design focuses on creating visually attractive and interactive screens for users. UX means User Experience. It refers to the overall experience and satisfaction a user gets while using an application or website. UX design focuses on usability, accessibility, efficiency, and smooth interaction. Good UI helps users understand the system visually, while good UX helps users complete tasks easily and comfortably. Both UI and UX are important for creating user-friendly digital products.
 
